@@ -1,0 +1,185 @@
+[
+  {
+    "marcas": [
+      {
+        "val": "Honda",
+        "modelos": [
+          {
+            "val": "Wave",
+            "cilindradas": [
+              {
+                "val": "110",
+                "versiones": [
+                  {
+                    "val": "Freno a tambor",
+                    "anios": [
+                      2020
+                    ]
+                  },
+                  {
+                    "val": "Freno a disco",
+                    "anios": [
+                      2020, 2019
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "val": "Biz",
+            "cilindradas": [
+              {
+                "val": "125",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2020
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "val": "CG Titan",
+            "cilindradas": [
+              {
+                "val": "150",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2019
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "val": "XR Tornado",
+            "cilindradas": [
+              {
+                "val": "250",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2020
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "val": "Yamaha",
+        "modelos": [
+          {
+            "val": "Crypton",
+            "cilindradas": [
+              {
+                "val": "110",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2020, 2019
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "val": "Bajaj",
+        "modelos": [
+          {
+            "val": "Rouser",
+            "cilindradas": [
+              {
+                "val": "180",
+                "versiones": [
+                  {
+                    "val": "UG3",
+                    "anios": [
+                      2006
+                    ]
+                  }
+                ]
+              },
+              {
+                "val": "200",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2007
+                    ]
+                  },
+                  {
+                    "val": "AS",
+                    "anios": [
+                      2015
+                    ]
+                  },
+                  {
+                    "val": "DTS-I",
+                    "anios": [
+                      2007
+                    ]
+                  },
+                  {
+                    "val": "NS",
+                    "anios": [
+                      2015
+                    ]
+                  }
+                ]
+              },
+              {
+                "val": "220",
+                "versiones": [
+                  {
+                    "val": "-",
+                    "anios": [
+                      2008
+                    ]
+                  },
+                  {
+                    "val": "F",
+                    "anios": [
+                      2007
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "val": "XCD",
+            "cilindradas": [
+              {
+                "val": "125",
+                "versiones": [
+                  {
+                    "val": "L1",
+                    "anios": [
+                      2008
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
